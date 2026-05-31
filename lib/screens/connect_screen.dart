@@ -70,7 +70,7 @@ class _ConnectScreenState extends State<ConnectScreen> {
                   keyboardType: TextInputType.url,
                   decoration: const InputDecoration(
                       labelText: 'Shop address',
-                      hintText: 'http://192.168.1.10:9810'),
+                      hintText: 'http://192.168.1.10:9830'),
                 ),
                 const SizedBox(height: 12),
                 TextField(

@@ -15,7 +15,7 @@ theme to match the desktop and the Cal-Station.
 - **Jobs** — view harness/tuning work and move it along the pipeline.
 
 It talks to the desktop **mobile bridge** (`PC app/src/mobile_bridge.py`), a small
-token-protected HTTP API on `http://<shop-pc>:9810`.
+token-protected HTTP API on `http://<shop-pc>:9830`.
 
 ## Run / build
 
